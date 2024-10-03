@@ -1,0 +1,33 @@
+.timetable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+
+input {
+  width: 100%;
+  padding: 5px;
+  font-size: 14px;
+}
+
+span {
+  cursor: pointer;
+  display: block;
+}
+
+.empty-slot {
+  background-color: #f7f7f7;
+  height: 40px;
+}
+
+
+.empty-slot {
+  background-color: #f7f7f7;
+  height: 40px;
+}
